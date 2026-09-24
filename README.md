@@ -1,13 +1,8 @@
-# Online Food Delivery Analysis - Comprehensive Data Analytics Project
+# Online Food Delivery Analysis
 
 ## 📊 Project Overview
 
-**Version: 2.0 - Completely Redesigned**
-
 This is a comprehensive **Exploratory Data Analysis (EDA)** project analyzing 388 online food delivery customers across 13 demographic and behavioral attributes. The analysis is part of the **IBM SkillsBuild Data Analytics with AI Academic Internship Program** (AICTE, BharatCares).
-
-**NO Machine Learning | PURE EDA | 50+ Insights | 12 Recommendations**
-
 ---
 
 ## 🎯 Problem Statement
@@ -289,10 +284,6 @@ python -m venv venv
 # Activate (Windows)
 venv\Scripts\activate
 
-# Activate (macOS/Linux)
-source venv/bin/activate
-```
-
 **3. Install Dependencies**
 ```bash
 pip install -r requirements.txt
@@ -431,13 +422,13 @@ By completing this project, you'll master:
 ## 📝 Project Files
 
 ### Main Files
-1. **Mukul_Rajput_OnlineFoodDeliveryAnalysis_v2.ipynb** (50 KB)
+1. **Mukul_Rajput_OnlineFoodDeliveryAnalysis.ipynb** (50 KB)
    - 15 comprehensive analysis sections
    - 16+ visualizations
    - 50+ statistical insights
    - 12 business recommendations
 
-2. **Mukul_Rajput_ProjectReport_v2.docx** (15 KB)
+2. **Mukul_Rajput_ProjectReport.docx** (15 KB)
    - Professional project documentation
    - Executive summary
    - Detailed findings
@@ -465,16 +456,16 @@ By completing this project, you'll master:
 ## 🔗 Quick Links
 
 - 📊 **Dataset**: online_food_delivery_dataset.csv
-- 🐍 **Main Notebook**: Mukul_Rajput_OnlineFoodDeliveryAnalysis_v2.ipynb
-- 📄 **Project Report**: Mukul_Rajput_ProjectReport_v2.docx
+- 🐍 **Main Notebook**: Mukul_Rajput_OnlineFoodDeliveryAnalysis.ipynb
+- 📄 **Project Report**: Mukul_Rajput_ProjectReport.docx
 - 📦 **Requirements**: requirements.txt
 
 ---
 
 ## ✅ Submission Checklist
 
-- ✅ Jupyter Notebook (.ipynb) - v2.0 Complete
-- ✅ Project Report (.docx) - v2.0 Updated
+- ✅ Jupyter Notebook (.ipynb) -  Complete
+- ✅ Project Report (.docx) -  Updated
 - ✅ Requirements File (.txt) - All libraries listed
 - ✅ README Documentation (.md) - Complete
 - ✅ Dataset File (.csv) - Included
@@ -489,8 +480,6 @@ By completing this project, you'll master:
 ## 🎯 Status
 
 **Project Status:** ✅ **COMPLETE & READY FOR SUBMISSION**
-
-**Version:** 2.0 (Completely Redesigned)  
 **Completion Date:** September 24, 2026  
 **Total Analysis Time:** Comprehensive  
 **Data Quality:** 100% Complete  
@@ -516,15 +505,4 @@ For detailed analysis methodology and findings, refer to:
 
 ---
 
-## 📋 Version History
-
-| Version | Date | Changes |
-|---------|------|---------|
-| v1.0 | Sep 24, 2026 | Initial project |
-| **v2.0** | **Sep 24, 2026** | **Complete redesign - 15 sections, 50+ insights** |
-
----
-
 **Happy Analyzing! 📊🎯**
-
-All files are ready for submission to IBM SkillsBuild internship program.
